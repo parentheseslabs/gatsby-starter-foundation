@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Tanisha Raghav
 tagline: No-code Designer
-featuredImage: /assets/maanvi.jpeg
+featuredImage: /assets/tanisha.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
