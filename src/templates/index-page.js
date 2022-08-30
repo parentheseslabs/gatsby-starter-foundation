@@ -163,13 +163,13 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "tiktok" ? (
+        {/* {icons.icon === "tiktok" ? (
           <a href={icons.url} target="_blank" aria-label="link to Wordpress" rel="noopener noreferrer">
             <FaTiktok alt="tiktok icon" />
           </a>
         ) : (
           ""
-        )}
+        )} */}
         {icons.icon === "dribbble" ? (
           <a href={icons.url} target="_blank" aria-label="link to Dribbble" rel="noopener noreferrer">
             <RiDribbbleFill alt="Dribbble icon" />

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Prativa Blogs",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "No-code blogs by Prativa, Built with Gatsby and Netlify CMS. Made with ❤ by Parentheses Labs",
+    "siteUrl": "https://blog.prativa.in",
+    "image": "/assets/prativa-logo.png",
+    "iconimage": "/assets/prativa-logo.png",
+    "twitterUsername": "@prativahq"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

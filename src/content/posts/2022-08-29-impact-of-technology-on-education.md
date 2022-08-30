@@ -1,0 +1,25 @@
+---
+template: blog-post
+title: Impact of Technology on Education
+slug: /impact-of-technology-on-education
+date: 2020-05-13 12:46
+description: Impact of Technology on Education
+featuredImage: /assets/impact-of-technology-on-education.jpg
+---
+Technology has had an influence on practically every part of life today, and education is no different. It has altered and influenced how things are presented and taught to students in the classroom. It has had a significant influence on the resources utilised and how we use these things to teach children in schools.
+Prior to COVID-19, most educational systems throughout the world looked little different than they did in the twentieth or even nineteenth century. And investments in education technology have been concentrated on the deployment of devices and connection, with little attention for their usage by instructors and students for learning.The Coronavirus (COVID -19) pandemic has ushered in a new era in education, with instructors using technology to educate, interact, and collaborate with kids, parents, and colleagues, all while working from their own kitchen table. The majority of educators have embraced this online pivot with zeal.
+
+Access to Learning Oppurtunities
+Technology has fundamentally altered schooling in numerous ways. For one thing, technological advancements have substantially increased access to education. Books were scarce in medieval times, and only a select few had access to educational possibilities. Individuals had to travel to educational institutions to obtain an education. Massive amounts of knowledge (books, music, photos, and videos) are now available at one's fingertips via the Internet, and formal learning opportunities are available online globally via the Khan Academy, MOOCs, podcasts, traditional online degree programmes, and more. Technology has enabled unparalleled access to learning opportunities. 
+
+Increased Communication
+Technology has also increased communication and cooperation opportunities. Classrooms have traditionally been rather isolated, with cooperation confined to pupils in the same classroom or building. Today's technology provides types of communication and cooperation previously unimaginable. Students in a remote classroom, for example, can learn about the Arctic by following the expedition of a team of scientists in the region, reading the scientists' blog posts, images, e-mailing questions to the scientists, and even talking live with the scientists through zoom meetings. Kids can share their knowledge with students in other schools around the country who are following the same excursion. Students can use technology-based resources such as wikis and Google docs to work on group assignments. Classroom walls are no longer an impediment, as technology provides new ways of learning, communicating, and working cooperatively.
+
+Shift in Student Teacher Dynamic
+Technology is also changing the roles of instructors and students. The instructor is the major source of knowledge in the conventional classroom while the students passively receive it. This idea of the teacher as the "sage on the stage" has long been in education and is still prevalent today in India. However, as technology has increased access to information and educational opportunities, we are seeing the teacher's position evolve to that of a "guide on the side" in many classrooms today, as students take greater responsibility for their own learning and utilise technology to obtain pertinent knowledge. Learning environments are being redesigned at schools and institutions around the country.
+
+Innovation 
+Technology is a powerful instrument that can help and improve education in a variety of ways, such as making it easier for instructors to generate instructional materials and providing new methods for people to learn and collaborate. With the Internet's global reach and the prevalence of smart gadgets that can connect to it, a new era of anytime, anywhere education is approaching. It will be up to instructional designers and educational technologies to capitalise on the potential afforded by technology to transform education so that effective and efficient education is available to everyone, everywhere.
+
+Ever since the implementation of lockdown and the consequent suspension of classroom activities, the number and use of educational mobile applications has increased. As a result, developing an app for educational purposes has become an essential component of improvising modern education and tutoring.There are apps like Byjus, Vedantu, Unacademy which use technology to provide education to students. These apps have managed to replace physical modes of education. There also exist platforms like Teachmint and Geogebra which provides teacher tools to aid them in teaching students.
+No code platforms like Makerpad Nocode tech allow users to build cost-efficiently and exquisite Education apps swiftly. These platforms have preset functions and features that enable even irregular smartphone users to build impressive cross-platform apps. 

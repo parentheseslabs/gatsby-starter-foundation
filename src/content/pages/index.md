@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Tanisha Raghav
+tagline: No-code Designer
+featuredImage: /assets/maanvi.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+She is a award winning no-code designer, based in sunny side of Gurgaon, India. Working as designer at Parentheses Labs.
